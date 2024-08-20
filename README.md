@@ -1,7 +1,7 @@
 ## Flight Ticket Prediction
 ![flight_ticket](assets/img/flight_ticket.jpg)
 
-#### Project Description
+### Project Description
 
 In this project, I explored an open-source flight booking dataset from Kaggle to perform predictive analysis. The dataset includes the following features:
 
@@ -21,5 +21,7 @@ I constructed a regression model using the Random Forest algorithm to predict fl
 However, the project had some limitations. The dataset was relatively small and covered only a few cities in India, restricting the model's ability to generalize predictions beyond these specific cities. The primary goal of this project was to demonstrate the practical application of machine learning to business use cases. With a more comprehensive dataset, the workflow used here could be applied to develop a generalized model for predicting flight ticket prices across a broader range of locations.
 
 
-#### Data Source
-<a href = "https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?select=Clean_Dataset.csv">Kaggle</a>
+<div><a href = "https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?select=Clean_Dataset.csv">Data Source</a></div>
+<div><a href = " ">Analysis Notebook</a></div>
+<div><a href = " ">Web Application</a></div>
+
