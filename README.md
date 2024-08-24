@@ -22,6 +22,6 @@ However, the project had some limitations. The dataset was relatively small and 
 
 
 <div><a href = "https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?select=Clean_Dataset.csv">Data Source</a></div>
-<div><a href = " ">Analysis Notebook</a></div>
+<div><a href = "https://github.com/shihjen/Flight_Ticket_Price_Prediction/blob/main/notebook.ipynb">Analysis Notebook</a></div>
 <div><a href = " ">Web Application</a></div>
 
